@@ -1,0 +1,15 @@
+{
+  "name": "vegex",
+  "version": "0.0.1",
+  "description": "placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qiaosen Huang",
+  "license": "MIT",
+  "devDependencies": {
+    "jison": "^0.4.17",
+    "sprintf": "^0.1.5"
+  }
+}
